@@ -1,0 +1,31 @@
+.table-view .column-header-background{
+    -fx-background-color: linear-gradient(to bottom right, #2B3467,  #668cff);
+    -fx-background-insets: 0 0 0 0;
+    -f-background-radius: 8px 8px 0px 0px;
+}
+
+.table-view .column-header, .filter{
+    -fx-background-color: transparent;
+    -fx-size: 40px;
+}
+
+.table-view .column-header .label{
+    -fx-text-fill: #fff;
+    -fx-font-family: "System";
+}
+
+/* Styling for Add Button */
+.button-add {
+    -fx-background-color: #8DB600; /* Apple Green */
+}
+
+
+/* Styling for Remove Button */
+.button-remove {
+    -fx-background-color: red;
+}
+
+/* Styling for Update Button */
+.button-update {
+    -fx-background-color: blue;
+}
