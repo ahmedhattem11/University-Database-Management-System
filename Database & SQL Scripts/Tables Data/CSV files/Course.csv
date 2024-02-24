@@ -1,0 +1,9 @@
+﻿course_id,course_name ,credit_hours,capacity,dep_id
+11,SQL,3,10,1
+12,Python,6,15,1
+13,Data Warehouse,3,10,1
+14,Big Data Tools,6,15,1
+21,Cyber Security,6,15,2
+22,Networking,6,15,2
+23,Operating Systems,3,10,2
+24,Ethical Hacking,3,10,2

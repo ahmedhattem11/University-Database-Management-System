@@ -1,0 +1,49 @@
+﻿std_ID,std_name,course_ID,course_name,semester
+1,John Doe,11,SQL,1
+1,John Doe,12,Python,1
+1,John Doe,13,Data Warehouse,2
+1,John Doe,14,Big Data Tools,2
+2,Jane Smith,21,Cyber Security,1
+2,Jane Smith,22,Networking,1
+2,Jane Smith,23,Operating Systems,2
+2,Jane Smith,24,Ethical Hacking,2
+3,Bob Johnson,11,SQL,1
+3,Bob Johnson,12,Python,1
+3,Bob Johnson,13,Data Warehouse,2
+3,Bob Johnson,14,Big Data Tools,2
+4,Alice Williams,21,Cyber Security,1
+4,Alice Williams,22,Networking,1
+4,Alice Williams,23,Operating Systems,2
+4,Alice Williams,24,Ethical Hacking,2
+5,Charlie Brown,11,SQL,1
+5,Charlie Brown,12,Python,1
+5,Charlie Brown,13,Data Warehouse,2
+5,Charlie Brown,14,Big Data Tools,2
+6,Eva Martinez,21,Cyber Security,1
+6,Eva Martinez,22,Networking,1
+6,Eva Martinez,23,Operating Systems,2
+6,Eva Martinez,24,Ethical Hacking,2
+7,David Lee,11,SQL,1
+7,David Lee,12,Python,1
+7,David Lee,13,Data Warehouse,2
+7,David Lee,14,Big Data Tools,2
+8,Sophia Chen,21,Cyber Security,1
+8,Sophia Chen,22,Networking,1
+8,Sophia Chen,23,Operating Systems,2
+8,Sophia Chen,24,Ethical Hacking,2
+9,Michael Nguyen,11,SQL,1
+9,Michael Nguyen,12,Python,1
+9,Michael Nguyen,13,Data Warehouse,2
+9,Michael Nguyen,14,Big Data Tools,2
+10,Olivia Garcia,21,Cyber Security,1
+10,Olivia Garcia,22,Networking,1
+10,Olivia Garcia,23,Operating Systems,2
+10,Olivia Garcia,24,Ethical Hacking,2
+11,William Wang,11,SQL,1
+11,William Wang,12,Python,1
+11,William Wang,13,Data Warehouse,2
+11,William Wang,14,Big Data Tools,2
+12,Emma Davis,21,Cyber Security,1
+12,Emma Davis,22,Networking,1
+12,Emma Davis,23,Operating Systems,2
+12,Emma Davis,24,Ethical Hacking,2
